@@ -13,7 +13,8 @@ int main(){
     //if(a>b){// greator operator
     //if(a>=b){// greater than equal to
       //if(a<=b){// less than equal to
-        if(a!=b){// not equal to
+        //if(a!=b){// not equal to
+        if(a<b!=a>=b){
     cout<<"yes";
   }
   else{
